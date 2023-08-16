@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Delegate": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\users\\lynn\\documents\\words.txt"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeMazeTest_ActionFuncDelegates", "CodeMazeTest_ActionFuncDelegates.csproj", "{EBEF6C79-177C-472B-8220-B7D66DA7419E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMazeTest_ActionFuncDelegates_Tests", "..\CodeMazeTest_ActionFuncDelegates_Tests\CodeMazeTest_ActionFuncDelegates_Tests.csproj", "{0841CB9E-4C25-4F28-825C-F47EE4DBDBE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBEF6C79-177C-472B-8220-B7D66DA7419E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEF6C79-177C-472B-8220-B7D66DA7419E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEF6C79-177C-472B-8220-B7D66DA7419E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEF6C79-177C-472B-8220-B7D66DA7419E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0841CB9E-4C25-4F28-825C-F47EE4DBDBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0841CB9E-4C25-4F28-825C-F47EE4DBDBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0841CB9E-4C25-4F28-825C-F47EE4DBDBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0841CB9E-4C25-4F28-825C-F47EE4DBDBE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F466D6-0338-422B-917A-DA78C02A1130}
+	EndGlobalSection
+EndGlobal
